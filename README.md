@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there I'm Tyler
+I am a high school student who wants to become an AI researcher. I am working on implementing AI research papers, learning graphics, and building my own machine learning projects.
+
+## Current Interests
+- Machine Learning
+- Neural Networks
+- Chess Programming
+
+## I am Looking for help with
+- Finding next steps for reaching my goal of AI research
 
 <!--
 **Tyler-Williams123/Tyler-Williams123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
